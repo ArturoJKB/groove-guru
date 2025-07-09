@@ -1,0 +1,30 @@
+# Core audio processing
+numpy==1.26.4
+scipy>=1.11.0
+librosa==0.11.0
+soundfile>=0.12.1
+pydub>=0.25.1
+
+# Machine Learning & AI
+torch==2.6.0
+torchaudio==2.6.0
+transformers==4.53.0
+scikit-learn>=1.4.2
+basic_pitch[tf]
+demucs==4.0.1
+
+# API integrations
+openai>=1.0.0
+huggingface_hub>=0.20.0
+python-dotenv>=1.0.0
+
+# Web interface
+gradio
+
+# Data handling
+pandas>=2.0.0
+matplotlib>=3.7.0
+
+# Additional utilities
+requests>=2.31.0
+tqdm>=4.66.0

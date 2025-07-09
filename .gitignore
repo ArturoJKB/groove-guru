@@ -1,0 +1,31 @@
+# Entornos virtuales
+venv/
+env/
+
+# Archivos Python compilados
+__pycache__/
+*.py[cod]
+
+# Checkpoints de notebooks
+.ipynb_checkpoints/
+
+# Archivos de sistema
+.DS_Store
+
+# Archivos sensibles
+.env
+*.pem
+*.key
+*.crt
+
+# Archivos temporales
+*.tmp
+*.swp
+*.bak
+
+# Configuración de IDEs (VSCode, PyCharm)
+.vscode/
+.idea/
+
+# Archivos binarios opcionales (por tamaño)
+assets/*.wav
