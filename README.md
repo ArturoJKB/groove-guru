@@ -48,7 +48,7 @@ An intelligent music production assistant that analyzes audio characteristics an
 ```
 groove-guru/
 ├── notebooks/
-│   └── groove_guru_analysis.ipynb    ← 🎯 Main demo notebook (START HERE!)
+│   └── groove_guru_demo.ipynb    ← 🎯 Main demo notebook (START HERE!)
 ├── assets/
 │   └── demo_audio.wav               ← Demo audio files
 ├── docs/
@@ -83,7 +83,7 @@ groove-guru/
 
 4. **Run the demo**
    ```bash
-   jupyter notebook notebooks/groove_guru_analysis.ipynb
+   jupyter notebook notebooks/groove_guru_demo.ipynb
    ```
 
 5. **Start analyzing!**
